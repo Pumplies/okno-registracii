@@ -1,0 +1,32 @@
+.menu {
+    border-color: rgb(12, 134, 240);
+    text-align: center;
+    margin: 20vh 20vw;
+    padding: 5vh 3vw;
+    border-radius: 20px;
+}
+.h1 {
+    margin-bottom: 3vh;
+}
+.login {
+    margin-bottom: 3vh;
+}
+.passworw {
+    margin-bottom: 3vh;
+}
+input {
+    border: none;
+    outline: none;
+    padding: 5px 5px;
+}
+.button {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-left: 20vw;
+    width: 200px;
+    height: 30px;
+    align-items: center;
+    border-radius: 30px;
+    background: linear-gradient(to right, rgb(12, 243, 212), rgb(15, 219, 124));
+}
